@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @srijita0814
+- 👀 I’m interested in working on machine learning projects
+- 🌱 I’m currently brushing up on my scikit-learn knowledge
+- 📫 You can contact me at srijita.chandra14@gmail.com
